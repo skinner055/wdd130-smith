@@ -1,5 +1,12 @@
 h1 {
     color: white;
+    font-family: "Montserrat";
+}
+h2 {
+    font-family: "Montserrat";
+}
+p {
+    font-family: "Open Sans";
 }
 main {
     display: grid;
