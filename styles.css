@@ -32,3 +32,19 @@ main {
 footer {
     background-color: #00b4ff;
 }
+
+ul {
+    font-family: "Open Sans";
+    padding-left: 20px;
+    text-align: left;
+  }
+  
+  a {
+    color: #1a2b4c;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: #00b4ff;
+  }
+  
