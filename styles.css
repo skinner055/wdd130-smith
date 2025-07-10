@@ -3,6 +3,7 @@ h1 {
     font-family: "Montserrat";
 }
 h2 {
+    text-align: center;
     font-family: "Montserrat";
 }
 p {
@@ -26,11 +27,16 @@ main {
 }
 #content {
     border: 5px solid black;
-    width: 250px;
-    height: 400px;
+    width: 400px;
+    height: 600px;
 }
 footer {
     background-color: #00b4ff;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
 
 ul {
